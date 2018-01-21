@@ -1,0 +1,1 @@
+This is Rickie's first Git project
